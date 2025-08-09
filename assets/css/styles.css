@@ -42,3 +42,31 @@ html {
     color: black;
     border-bottom: 1px solid black;
 }
+
+
+.banner__title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.banner__image {
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner__image img {
+    width: 70%;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.banner__subtitle {
+    color: grey;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 55%;
+}
